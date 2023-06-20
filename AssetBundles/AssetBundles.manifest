@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1815179175
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefabs
+      Dependencies: {}
+    Info_1:
+      Name: small_data
+      Dependencies:
+        Dependency_0: prefabs
+    Info_2:
+      Name: small
+      Dependencies: {}
+    Info_3:
+      Name: medium
+      Dependencies: {}
+    Info_4:
+      Name: medium_data
+      Dependencies:
+        Dependency_0: prefabs
+    Info_5:
+      Name: large
+      Dependencies: {}
+    Info_6:
+      Name: large_data
+      Dependencies:
+        Dependency_0: prefabs
+    Info_7:
+      Name: downtown_data
+      Dependencies:
+        Dependency_0: prefabs
+    Info_8:
+      Name: worldmap
+      Dependencies: {}
+    Info_9:
+      Name: avatar
+      Dependencies:
+        Dependency_0: prefabs
+    Info_10:
+      Name: skonec
+      Dependencies:
+        Dependency_0: prefabs
+    Info_11:
+      Name: dodo
+      Dependencies:
+        Dependency_0: prefabs
+    Info_12:
+      Name: pbg
+      Dependencies:
+        Dependency_0: prefabs
+    Info_13:
+      Name: district
+      Dependencies:
+        Dependency_0: prefabs
+    Info_14:
+      Name: downtown
+      Dependencies: {}
